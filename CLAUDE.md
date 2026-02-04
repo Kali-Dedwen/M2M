@@ -20,6 +20,8 @@ M2M is a strategic framework and AI collaboration project. This CLAUDE.md serves
 │   └── executive-board/                # VN-1 Executive Board Architecture
 │       ├── vn1-nexus-strategist.schema.json  # Machine-readable schema
 │       └── README.md                   # Usage guide
+├── strategy/                           # Strategic planning documents
+│   └── competitive-analysis-positioning.md  # Market analysis & positioning
 └── .git/                               # Git version control
 ```
 
@@ -121,6 +123,7 @@ Expected configuration files:
 |----------|-----------|------|
 | Initial repo setup | Starting fresh M2M project | 2026-02-03 |
 | VN-1 Executive Board Schema | Meta-leadership avatar framework for strategic decision-making | 2026-02-04 |
+| HITL-Native Positioning | Differentiate through Human-in-the-Loop expertise for mid-market | 2026-02-04 |
 
 ## Common Tasks for AI Assistants
 
@@ -152,6 +155,7 @@ Expected configuration files:
 | `README.md` | Project overview and setup (to be created) |
 | `schemas/executive-board/vn1-nexus-strategist.schema.json` | VN-1 Executive Board schema |
 | `schemas/executive-board/README.md` | VN-1 usage guide and documentation |
+| `strategy/competitive-analysis-positioning.md` | Market analysis, gaps, and strategic positioning |
 
 ## Notes for AI Assistants
 
