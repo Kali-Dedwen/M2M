@@ -5,18 +5,22 @@ This document provides context and guidelines for AI assistants working with the
 ## Project Overview
 
 **Repository:** M2M (Kali-Dedwen/M2M)
-**Status:** Initial setup phase
-**Last Updated:** 2026-02-03
+**Status:** Active development
+**Last Updated:** 2026-02-04
 
-M2M is a new project repository. This CLAUDE.md serves as the foundational documentation for AI assistants and should be updated as the project develops.
+M2M is a strategic framework and AI collaboration project. This CLAUDE.md serves as the foundational documentation for AI assistants and should be updated as the project develops.
 
 ## Repository Structure
 
 ```
 /home/user/M2M/
-├── CLAUDE.md           # AI assistant guidelines (this file)
-├── .git/               # Git version control
-└── (project files to be added)
+├── CLAUDE.md                           # AI assistant guidelines (this file)
+├── schemas/                            # Strategic framework schemas
+│   ├── README.md                       # Schema index
+│   └── executive-board/                # VN-1 Executive Board Architecture
+│       ├── vn1-nexus-strategist.schema.json  # Machine-readable schema
+│       └── README.md                   # Usage guide
+└── .git/                               # Git version control
 ```
 
 ### Recommended Structure (as project grows)
@@ -113,11 +117,10 @@ Expected configuration files:
 
 ## Key Architectural Decisions
 
-*(Document important decisions here as they are made)*
-
 | Decision | Rationale | Date |
 |----------|-----------|------|
 | Initial repo setup | Starting fresh M2M project | 2026-02-03 |
+| VN-1 Executive Board Schema | Meta-leadership avatar framework for strategic decision-making | 2026-02-04 |
 
 ## Common Tasks for AI Assistants
 
@@ -147,6 +150,8 @@ Expected configuration files:
 |------|---------|
 | `CLAUDE.md` | AI assistant guidelines (this file) |
 | `README.md` | Project overview and setup (to be created) |
+| `schemas/executive-board/vn1-nexus-strategist.schema.json` | VN-1 Executive Board schema |
+| `schemas/executive-board/README.md` | VN-1 usage guide and documentation |
 
 ## Notes for AI Assistants
 
