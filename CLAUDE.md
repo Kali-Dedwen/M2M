@@ -15,6 +15,7 @@ M2M is a new project repository. This CLAUDE.md serves as the foundational docum
 ```
 /home/user/M2M/
 ├── CLAUDE.md           # AI assistant guidelines (this file)
+├── README.md           # Project overview and setup
 ├── .git/               # Git version control
 └── (project files to be added)
 ```
@@ -146,7 +147,7 @@ Expected configuration files:
 | File | Purpose |
 |------|---------|
 | `CLAUDE.md` | AI assistant guidelines (this file) |
-| `README.md` | Project overview and setup (to be created) |
+| `README.md` | Project overview and setup |
 
 ## Notes for AI Assistants
 
