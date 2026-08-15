@@ -1,0 +1,3 @@
+
+# Scenario Engine handoff bundle is verbatim-locked + checksummed: never normalize line endings
+scenario_engine_stage1/** -text
